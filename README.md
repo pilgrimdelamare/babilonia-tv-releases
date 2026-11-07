@@ -16,9 +16,9 @@
 
 <br>
 
-<a href="https://github.com/pilgrimdelamare/babilonia-tv-releases/releases/latest/download/Babilonia_Engine_Windows.zip"><img src="https://img.shields.io/badge/⬇%20%20Scarica%20per%20Windows-e50914?style=for-the-badge&logoColor=white" height="56" alt="Scarica per Windows"></a>
+<a href="https://github.com/pilgrimdelamare/babilonia-tv-releases/releases/latest/download/Babilonia_Engine_Windows.zip"><img src="https://img.shields.io/badge/Scarica%20per%20Windows-e50914?style=for-the-badge&logoColor=white" height="56" alt="Scarica per Windows"></a>
 &nbsp;
-<a href="https://babilonia-tv.pages.dev"><img src="https://img.shields.io/badge/▶%20%20Apri%20il%20player-222?style=for-the-badge" height="56" alt="Apri il player"></a>
+<a href="https://babilonia-tv.pages.dev"><img src="https://img.shields.io/badge/Apri%20il%20player-222?style=for-the-badge" height="56" alt="Apri il player"></a>
 
 <sub>Gratis. Nessuna installazione: si estrae lo ZIP e si avvia.</sub>
 
@@ -61,6 +61,7 @@ Incolli il link di uno stream e Babilonia lo **ascolta, lo traduce e lo ridoppia
 
 > [!TIP]
 > Se il browser chiede di **accedere ai dispositivi della rete locale**, scegli *Consenti*: serve solo a far parlare la pagina con il motore sul tuo PC.
+>
 > Se Windows mostra **"PC protetto da Windows"**, clicca *Ulteriori informazioni* → *Esegui comunque*.
 
 <br>
